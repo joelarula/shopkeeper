@@ -3,22 +3,35 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "serve": "vue-cli-service serve --inspect --inspect-brk",
+    "debug": "vue-cli-service serve --inspect --inspect-brk ./src/main.js",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "convert": "node convert.js",
+    "test": "node --inspect --inspect-brk ./node_modules/webpack/bin/webpack.js"
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "roboto-fontface": "*",
+    "vue": "^2.6.11",
+    "vue-router": "^3.0.6",
+    "vuetify": "^2.2.11",
+    "vuex": "^3.6.0"
   },
   "devDependencies": {
+    "@mdi/font": "^3.9.97",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
-    "vue-template-compiler": "^2.6.11"
+    "material-design-icons-iconfont": "^6.1.0",
+    "sass": "^1.19.0",
+    "sass-loader": "^8.0.0",
+    "vue-cli-plugin-vuetify": "~2.0.7",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.3.0"
   },
   "eslintConfig": {
     "root": true,

@@ -1,0 +1,36 @@
+type Query {
+    categories: [Category!]!
+    products(category:String!): [Product!]!
+}
+
+type Mutation {
+    addCategory(name:String!,parent:String,name_ru:String,name_en:String):Category!
+    updateCategory(name:String!,parent:String,name_ru:String,name_en:String):Category!
+    removeCategory(name:String!):Category!
+}
+
+type Category {
+    name:String!
+    name_ru:String
+    name_en:String
+    parent:String
+    products:[Product!]!
+}
+
+type Product {
+    code: Int
+    name: String!
+    category: Category
+    order: Int
+    name_en: String
+    name_ru: String
+    photo: Photo
+    detail1: Photo
+    detail2: Photo
+    detail3: Photo
+}
+
+type Photo {
+    name: String!
+    type: String!
+}

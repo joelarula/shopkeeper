@@ -1,0 +1,254 @@
+/* IE6/7/8 - Must be first */  
+@font-face {  
+	font-family: goudy ;  
+	src: url(goudy.eot);  
+}  
+
+@font-face {  
+	font-family: goudy ;  
+	src: url(goudy.ttf ) format("truetype");  
+}  
+
+@font-face {  
+	font-family: goldenswing ;  
+	src: url(GoldenSwing.ttf) format("truetype");  
+} 
+
+@font-face {  
+	font-family: arkhip ;  
+	src: url(Arkhip_font.ttf) format("truetype");  
+} 
+
+
+Metamorphous-Regular.ttf
+
+.container {
+    width: 1024px;
+}
+
+.dropdown {
+    display: inherit !important;
+}
+
+.navbar{
+	border: none;
+}
+
+.navbar-inverse{
+	border-color: transparent; 
+	background-color: transparent;
+}
+
+.navbar-header {
+  
+    text-align: center;
+    width: 100%;
+}
+
+.page-title, .page-title:hover{
+	text-decoration:none;  
+	
+	font-family: goudy , georgia, verdana, helvetica, sans-serif;
+    font-size: 50px;
+    color: #FDDE7C;
+}
+
+ html, body {
+    margin:0;
+    padding:0;
+}
+
+html{
+    padding: 0; margin: 0;
+}
+
+
+body{
+	background-color: #000;
+	color: #fff;
+	position:relative;
+	background-image: url("tuli2.jpg");
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+
+}
+
+.pcontainer{
+
+	margin-bottom: 2px;
+	min-height: 730px;
+}
+
+.sfooter {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 26px;
+    text-align: center;
+    font-size: 18px;
+    color: #FDDE7C;
+     background:rgba(10,10,10,0.3)
+}
+
+
+#catalog{	
+	margin-top: 80px;
+	min-height: 500px;
+}
+
+#category{	
+	margin-top: 120px;
+	min-height: 500px;
+}
+
+.catalogPreview .imageLink{
+	margin-bottom: 35px;
+}
+
+.categoryLabel{
+	text-decoration:none;  
+	font-family: goudy , georgia, verdana, helvetica, sans-serif;
+    font-size: 26px;
+    color: #FDDE7C;
+}
+
+.categoryLabel:hover{
+	text-decoration:none;  
+    color: #FDC17C;
+}
+
+.categoryLabel.ru{
+	font-size: 16px;
+	font-family: arkhip , georgia, verdana, helvetica, sans-serif;
+}
+
+.categoryMenuLabel{
+	text-decoration:none;  
+	font-family: goldenswing , georgia, verdana, helvetica, sans-serif;
+    font-size: 18px;
+    color: #FDDE7C;
+}
+
+.categoryMenuLabel:hover{
+	text-decoration:none;  
+    color: #FDC17C;
+}
+
+.categoryMenuLabel.active{
+	 font-size: 24px;
+}
+
+.categoryMenuLabel.ru{
+	font-size: 14px;
+	font-family: arkhip , georgia, verdana, helvetica, sans-serif;
+}
+
+.categoryMenuLabel.ru.active{
+	font-size: 16px;
+}
+
+.imageLink{
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+.model{
+	margin-top: 55px;
+	text-align: center;
+	margin-bottom: 45px;
+}
+
+.thumb{
+
+}
+
+#category{
+	margin-top: 60px;
+}
+
+#catalog_menu{
+	margin-top: 80px;
+}
+
+.categoryfooter{
+	margin-bottom: 60px;
+	clear: both;
+	text-align: center;
+}
+
+
+.toggleLang, .toggleLang:hover{
+	font-family:  georgia, verdana, helvetica, sans-serif;
+    text-decoration:none;  
+    font-size: 14px;
+    color: #FDDE7C;
+	
+}
+
+.localeIcon{
+	background-size:contain;
+	display: inline-block;
+	width:24px;
+	height: 20px;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+.localeIcon.et{
+	background-image: url("ee.png");
+}
+
+.localeIcon.en{
+	background-image: url("en.png");
+}
+
+.localeIcon.ru{
+	background-image: url("ru.png");
+}
+
+.nav > li > a.toggleLang {
+	padding: 5px 5px;
+}
+
+ .modelthumb{
+ 	min-height: 250px;
+ }
+ 
+ .modelLabel, .modelLabel:hover{
+    font-family: goldenswing , georgia, verdana, helvetica, sans-serif;
+    text-decoration:none;  
+    font-size: 24px;
+    color: #FDDE7C;
+    display:inline-block;
+ }
+ 
+ .modelLabel.ru{
+ 	font-size: 16px;
+	font-family: arkhip , georgia, verdana, helvetica, sans-serif;
+}
+
+
+.modelNavPrev, .modelNavNext, .modelNavPrev:hover, .modelNavNext:hover {
+	font-family:  georgia, verdana, helvetica, sans-serif;
+    text-decoration:none;  
+    font-size: 18px;
+    color: #FDDE7C;
+}
+
+.modelmenu{
+	margin-top: 30px;
+	width: 600px;
+	display: inline-block;
+}
+
+
+ .details{
+ 	margin-top: 30px;
+ }
+ 
+ .detailPreview{
+  display: inline-block;
+  margin: 20px;
+
+ }

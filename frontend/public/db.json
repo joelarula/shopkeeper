@@ -1,0 +1,1144 @@
+{
+    "categories": {
+        "Väike sepis": {
+            "products": [
+                {
+                    "key": "06987565-1f64-4dc5-91cb-eae7ddbd8b28",
+                    "name": "Alus kuumale potile",
+                    "description": null,
+                    "photo": "06987565-1f64-4dc5-91cb-eae7ddbd8b28.png",
+                    "details": [],
+                    "translation_en": "Base for pan",
+                    "translation_ru": "Подставка для горячего",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "211a0e91-49c8-4fa2-93b1-a72c39a172cf",
+                    "name": "Korgitser 1",
+                    "description": null,
+                    "photo": "211a0e91-49c8-4fa2-93b1-a72c39a172cf.png",
+                    "details": [],
+                    "translation_en": "Corkscrew 1",
+                    "translation_ru": "Штопор 1",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "2639bab3-b6cd-4147-b050-b9434ebd4270",
+                    "name": "Liblikas",
+                    "description": null,
+                    "photo": "2639bab3-b6cd-4147-b050-b9434ebd4270.png",
+                    "details": [],
+                    "translation_en": "Butterfly",
+                    "translation_ru": "Бабочка",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "564577b4-32de-437e-8029-e4a04ca05d1d",
+                    "name": "Kelluke",
+                    "description": null,
+                    "photo": "564577b4-32de-437e-8029-e4a04ca05d1d.png",
+                    "details": [
+                        "564577b4-32de-437e-8029-e4a04ca05d1d:DETAIL0.png"
+                    ],
+                    "translation_en": "Bell",
+                    "translation_ru": "Колокольчик",
+                    "position": 6,
+                    "size": {
+                        "width": 1024,
+                        "height": 768,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "6305f847-17c7-4a12-9296-f9ed44c9a260",
+                    "name": "Viiulivõti",
+                    "description": null,
+                    "photo": "6305f847-17c7-4a12-9296-f9ed44c9a260.png",
+                    "details": [],
+                    "translation_en": "Treble clef",
+                    "translation_ru": "Скрипичный ключ",
+                    "position": 6,
+                    "size": {
+                        "width": 1280,
+                        "height": 960,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "753c9222-8b6d-4e2e-a283-a2a3327038ce",
+                    "name": "Koputi",
+                    "description": null,
+                    "photo": "753c9222-8b6d-4e2e-a283-a2a3327038ce.png",
+                    "details": [],
+                    "translation_en": "Knock",
+                    "translation_ru": "Дверной молоток",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "a5061467-77bd-4731-b4a2-5fcbacbdd37f",
+                    "name": "Roos",
+                    "description": null,
+                    "photo": "a5061467-77bd-4731-b4a2-5fcbacbdd37f.png",
+                    "details": [
+                        "a5061467-77bd-4731-b4a2-5fcbacbdd37f:DETAIL0.png"
+                    ],
+                    "translation_en": "Rose",
+                    "translation_ru": "Роза",
+                    "position": 7,
+                    "size": {
+                        "width": 1024,
+                        "height": 768,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "b87ff992-363f-4e06-a51c-8da7c12e93f1",
+                    "name": "Uksehinged",
+                    "description": null,
+                    "photo": "b87ff992-363f-4e06-a51c-8da7c12e93f1.png",
+                    "details": [],
+                    "translation_en": "Door hinges",
+                    "translation_ru": "Дверные петли",
+                    "position": 7,
+                    "size": {
+                        "width": 1024,
+                        "height": 768,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "ca140913-de74-44bc-8ac3-22fdfd697feb",
+                    "name": "Pudeliavaja",
+                    "description": null,
+                    "photo": "ca140913-de74-44bc-8ac3-22fdfd697feb.png",
+                    "details": [],
+                    "translation_en": "Bottle opener",
+                    "translation_ru": "Открыватель для бутылок",
+                    "position": 2,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "d62630c2-eb0b-4ce2-98fb-1c76b5b7c9d3",
+                    "name": "Õngekonksud",
+                    "description": null,
+                    "photo": "d62630c2-eb0b-4ce2-98fb-1c76b5b7c9d3.png",
+                    "details": [],
+                    "translation_en": "Hooks",
+                    "translation_ru": "крючки",
+                    "position": 7,
+                    "size": {
+                        "width": 1280,
+                        "height": 960,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "e028eb42-1032-43fc-bd87-8b6e188efae8",
+                    "name": "Korgitser 2",
+                    "description": null,
+                    "photo": "e028eb42-1032-43fc-bd87-8b6e188efae8.png",
+                    "details": [],
+                    "translation_en": "Corkscrew 2",
+                    "translation_ru": "Штопор 2",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "e0ed3d71-a011-4a63-89ba-4be9eb7f067d",
+                    "name": "Roos 1",
+                    "description": null,
+                    "photo": "e0ed3d71-a011-4a63-89ba-4be9eb7f067d.png",
+                    "details": [],
+                    "translation_en": "Rose 1",
+                    "translation_ru": "Роза 1",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                }
+            ],
+            "name": "Väike sepis",
+            "name_en": "Small Forgings",
+            "name_ru": "Мелкие Детали"
+        },
+        "Pildid": {
+            "products": [
+                {
+                    "key": "0c078f7b-dfbf-4065-9363-738fec5c92c8",
+                    "name": "Pilt 2",
+                    "description": null,
+                    "photo": "0c078f7b-dfbf-4065-9363-738fec5c92c8.png",
+                    "details": [],
+                    "translation_en": "Picture 2",
+                    "translation_ru": "Картина 2",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "275354f8-f660-40ab-b657-25eb27b8af28",
+                    "name": "Pilt 1",
+                    "description": null,
+                    "photo": "275354f8-f660-40ab-b657-25eb27b8af28.png",
+                    "details": [],
+                    "translation_en": "Picture 1",
+                    "translation_ru": "Картина 1",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "31c327ba-b44a-4648-9be2-2e0ee9c3b6bd",
+                    "name": "Pilt 5",
+                    "description": null,
+                    "photo": "31c327ba-b44a-4648-9be2-2e0ee9c3b6bd.png",
+                    "details": [],
+                    "translation_en": "Picture 5",
+                    "translation_ru": "Картина 5",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "9547dab6-2af7-48f5-85b2-d814f690b602",
+                    "name": "Pilt 4",
+                    "description": null,
+                    "photo": "9547dab6-2af7-48f5-85b2-d814f690b602.png",
+                    "details": [],
+                    "translation_en": "Picture 4",
+                    "translation_ru": "Картина 4",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "b58f9042-3b71-4b54-94d1-22579a706446",
+                    "name": "Pilt 3",
+                    "description": null,
+                    "photo": "b58f9042-3b71-4b54-94d1-22579a706446.png",
+                    "details": [],
+                    "translation_en": "Picture 3",
+                    "translation_ru": "Картина 3",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                }
+            ],
+            "name": "Pildid",
+            "name_en": "Picture",
+            "name_ru": "Картины"
+        },
+        "Ahjud Grillid": {
+            "products": [
+                {
+                    "key": "152f3936-6485-452c-b381-bcdba3dafb8e",
+                    "name": "Kaminatarvikud",
+                    "description": null,
+                    "photo": "152f3936-6485-452c-b381-bcdba3dafb8e.png",
+                    "details": [
+                        "152f3936-6485-452c-b381-bcdba3dafb8e:DETAIL0.png",
+                        "152f3936-6485-452c-b381-bcdba3dafb8e:DETAIL1.png",
+                        "152f3936-6485-452c-b381-bcdba3dafb8e:DETAIL1.png"
+                    ],
+                    "translation_en": "Fireplace accessories",
+                    "translation_ru": "Аксессуары для камина",
+                    "position": 5,
+                    "size": {
+                        "width": 768,
+                        "height": 1024,
+                        "proportion": 1.3333333333333333
+                    },
+                    "published": true
+                },
+                {
+                    "key": "2dedea59-3ea2-4f20-a7d6-f67a8dae9f28",
+                    "name": "Kaminariistad - 1 ",
+                    "description": null,
+                    "photo": "2dedea59-3ea2-4f20-a7d6-f67a8dae9f28.png",
+                    "details": [],
+                    "translation_en": "Fireplace tools-1",
+                    "translation_ru": "Каминные принадлежности - 1",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "4afd224a-ffb2-445c-8632-438f204ec40f",
+                    "name": "Ahjupuude alus - 1",
+                    "description": null,
+                    "photo": "4afd224a-ffb2-445c-8632-438f204ec40f.png",
+                    "details": [],
+                    "translation_en": "Stand for firewood - 1",
+                    "translation_ru": "Подставка для дров - 1",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "7709590f-f9a4-438b-ab7e-8afcc0936a8c",
+                    "name": "Grill",
+                    "description": null,
+                    "photo": "7709590f-f9a4-438b-ab7e-8afcc0936a8c.png",
+                    "details": [
+                        "7709590f-f9a4-438b-ab7e-8afcc0936a8c:DETAIL0.png"
+                    ],
+                    "translation_en": "Grill",
+                    "translation_ru": "Гриль",
+                    "position": 5,
+                    "size": {
+                        "width": 2048,
+                        "height": 1536,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "bf8bf8aa-71ae-41d9-96ab-3bc858e59822",
+                    "name": "Kaminarest Massu",
+                    "description": null,
+                    "photo": "bf8bf8aa-71ae-41d9-96ab-3bc858e59822.png",
+                    "details": [
+                        "bf8bf8aa-71ae-41d9-96ab-3bc858e59822:DETAIL0.png"
+                    ],
+                    "translation_en": "Fireplace Grate",
+                    "translation_ru": "Каминная решетка",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "e06167c8-e71a-404b-a40a-4b6fd31a5d25",
+                    "name": "Kaminarest",
+                    "description": null,
+                    "photo": "e06167c8-e71a-404b-a40a-4b6fd31a5d25.png",
+                    "details": [],
+                    "translation_en": "Fireplace Detention",
+                    "translation_ru": "Камин Задержание",
+                    "position": 1,
+                    "size": {
+                        "width": 2560,
+                        "height": 1920,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "eb78e6e1-edba-41a9-849a-39589241651f",
+                    "name": "Shashlõki vardad",
+                    "description": null,
+                    "photo": "eb78e6e1-edba-41a9-849a-39589241651f.png",
+                    "details": [],
+                    "translation_en": "Skewers for kebabs",
+                    "translation_ru": "Шампура для шашлыков",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "ec110b7c-e233-48cc-b9bc-7a0e5fb455dc",
+                    "name": "Ahjupuude alus",
+                    "description": null,
+                    "photo": "ec110b7c-e233-48cc-b9bc-7a0e5fb455dc.png",
+                    "details": [
+                        "ec110b7c-e233-48cc-b9bc-7a0e5fb455dc:DETAIL0.png"
+                    ],
+                    "translation_en": "Stand for firewood",
+                    "translation_ru": "Подставка для дров",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                }
+            ],
+            "name": "Ahjud Grillid",
+            "name_en": "Fireplace accessories",
+            "name_ru": "Аксессуары для камина"
+        },
+        "Lühtrid küünlajalad": {
+            "products": [
+                {
+                    "key": "17c5b5c3-1faa-4530-9233-18366512d697",
+                    "name": "Küünlajalg laast",
+                    "description": null,
+                    "photo": "17c5b5c3-1faa-4530-9233-18366512d697.png",
+                    "details": [
+                        "17c5b5c3-1faa-4530-9233-18366512d697:DETAIL0.png"
+                    ],
+                    "translation_en": "Chipshaped candlestick ",
+                    "translation_ru": "Подсвечник",
+                    "position": 1,
+                    "size": {
+                        "width": 1024,
+                        "height": 768,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "36ed1fd7-a7eb-42e5-973f-669e2de728e1",
+                    "name": "Antiikne küünlajalg",
+                    "description": null,
+                    "photo": "36ed1fd7-a7eb-42e5-973f-669e2de728e1.png",
+                    "details": [
+                        "36ed1fd7-a7eb-42e5-973f-669e2de728e1:DETAIL0.png"
+                    ],
+                    "translation_en": "Antique candlestick",
+                    "translation_ru": "Античный подсвечник",
+                    "position": 6,
+                    "size": {
+                        "width": 2448,
+                        "height": 3264,
+                        "proportion": 1.3333333333333333
+                    },
+                    "published": true
+                },
+                {
+                    "key": "37e4e95e-b030-474c-991c-7689e0a39302",
+                    "name": "Küünlajalg seinale",
+                    "description": null,
+                    "photo": "37e4e95e-b030-474c-991c-7689e0a39302.png",
+                    "details": [],
+                    "translation_en": "Candlestick on wall",
+                    "translation_ru": "Подсвечник на стене",
+                    "position": 5,
+                    "size": {
+                        "width": 1024,
+                        "height": 768,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "4952f5c4-a77f-47fe-b17f-543fb1a58072",
+                    "name": "Antiik 1",
+                    "description": null,
+                    "photo": "4952f5c4-a77f-47fe-b17f-543fb1a58072.png",
+                    "details": [],
+                    "translation_en": "Antique 1",
+                    "translation_ru": "Античный подсвечник 1",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "4e0a2077-3960-438b-917f-9dd0b6b5e602",
+                    "name": "Lühter ratas",
+                    "description": null,
+                    "photo": "4e0a2077-3960-438b-917f-9dd0b6b5e602.png",
+                    "details": [
+                        "4e0a2077-3960-438b-917f-9dd0b6b5e602:DETAIL0.png",
+                        "4e0a2077-3960-438b-917f-9dd0b6b5e602:DETAIL1.png",
+                        "4e0a2077-3960-438b-917f-9dd0b6b5e602:DETAIL1.png"
+                    ],
+                    "translation_en": "Chandelier wheel",
+                    "translation_ru": "Люстра колесо",
+                    "position": 5,
+                    "size": {
+                        "width": 1024,
+                        "height": 768,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "50707ccd-e6b9-4de9-8c5c-4d857585e0dd",
+                    "name": "Antiik 3",
+                    "description": null,
+                    "photo": "50707ccd-e6b9-4de9-8c5c-4d857585e0dd.png",
+                    "details": [],
+                    "translation_en": "Antique 3",
+                    "translation_ru": "Античный подсвечник 3",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "54eba16a-aab6-4604-8d5c-afba33769edd",
+                    "name": "Antiik 5",
+                    "description": null,
+                    "photo": "54eba16a-aab6-4604-8d5c-afba33769edd.png",
+                    "details": [],
+                    "translation_en": "Antique 5",
+                    "translation_ru": "Маленький подсвечник 5",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "572dd235-4507-4760-b089-dd5954540133",
+                    "name": "Lühter Ratas lampidega",
+                    "description": null,
+                    "photo": "572dd235-4507-4760-b089-dd5954540133.png",
+                    "details": [],
+                    "translation_en": "Chandelier Wheel with electric lamps",
+                    "translation_ru": "Люстра -Колесо с лампами",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "687f29df-f3c9-45dc-8bb4-3a58c5cbb23a",
+                    "name": "Antiik 4",
+                    "description": null,
+                    "photo": "687f29df-f3c9-45dc-8bb4-3a58c5cbb23a.png",
+                    "details": [],
+                    "translation_en": "Antique 4",
+                    "translation_ru": "Маленький подсвечник 4",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "689cd68e-2483-4a51-9a6e-1f24123be0c8",
+                    "name": "Lühter ratas 2",
+                    "description": null,
+                    "photo": "689cd68e-2483-4a51-9a6e-1f24123be0c8.png",
+                    "details": [
+                        "689cd68e-2483-4a51-9a6e-1f24123be0c8:DETAIL0.png",
+                        "689cd68e-2483-4a51-9a6e-1f24123be0c8:DETAIL1.png",
+                        "689cd68e-2483-4a51-9a6e-1f24123be0c8:DETAIL1.png"
+                    ],
+                    "translation_en": "Chandelier wheel 2",
+                    "translation_ru": "Люстра колесо 2",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "6c232106-75df-48e8-86d7-35cd2981e41f",
+                    "name": "Küünlajalg",
+                    "description": null,
+                    "photo": "6c232106-75df-48e8-86d7-35cd2981e41f.png",
+                    "details": [],
+                    "translation_en": "Candlestick ",
+                    "translation_ru": "Подсвечник",
+                    "position": 6,
+                    "size": {
+                        "width": 768,
+                        "height": 1024,
+                        "proportion": 1.3333333333333333
+                    },
+                    "published": true
+                },
+                {
+                    "key": "72e90c58-f124-4dce-9bad-c9be4a32386a",
+                    "name": "Lühter lampide või küünaldega 2",
+                    "description": null,
+                    "photo": "72e90c58-f124-4dce-9bad-c9be4a32386a.png",
+                    "details": [
+                        "72e90c58-f124-4dce-9bad-c9be4a32386a:DETAIL0.png",
+                        "72e90c58-f124-4dce-9bad-c9be4a32386a:DETAIL1.png",
+                        "72e90c58-f124-4dce-9bad-c9be4a32386a:DETAIL1.png"
+                    ],
+                    "translation_en": "Chandelier with electric lamps or candles",
+                    "translation_ru": "Люстра с электрическими лампами 2",
+                    "position": 5,
+                    "size": {
+                        "width": 768,
+                        "height": 1024,
+                        "proportion": 1.3333333333333333
+                    },
+                    "published": true
+                },
+                {
+                    "key": "776642d3-e19e-44d3-aea6-4c6df02fd4aa",
+                    "name": "Lauaküünalajalg",
+                    "description": null,
+                    "photo": "776642d3-e19e-44d3-aea6-4c6df02fd4aa.png",
+                    "details": [
+                        "776642d3-e19e-44d3-aea6-4c6df02fd4aa:DETAIL0.png"
+                    ],
+                    "translation_en": "Table candlestick",
+                    "translation_ru": "Подсвечник -1",
+                    "position": 1,
+                    "size": {
+                        "width": 3264,
+                        "height": 2448,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "80798e9b-3a46-4a72-b94d-e50c5aaf1a07",
+                    "name": "Suur lühter",
+                    "description": null,
+                    "photo": "80798e9b-3a46-4a72-b94d-e50c5aaf1a07.png",
+                    "details": [
+                        "80798e9b-3a46-4a72-b94d-e50c5aaf1a07:DETAIL0.png",
+                        "80798e9b-3a46-4a72-b94d-e50c5aaf1a07:DETAIL1.png",
+                        "80798e9b-3a46-4a72-b94d-e50c5aaf1a07:DETAIL1.png"
+                    ],
+                    "translation_en": "Big chandelier",
+                    "translation_ru": "Большая люстра",
+                    "position": 5,
+                    "size": {
+                        "width": 1024,
+                        "height": 768,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "85ace84a-a5fa-459a-9ae3-a81e25883dd8",
+                    "name": "Antiik 2",
+                    "description": null,
+                    "photo": "85ace84a-a5fa-459a-9ae3-a81e25883dd8.png",
+                    "details": [],
+                    "translation_en": "Antique 2",
+                    "translation_ru": "Античный подсвечник 2",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "8daa74ce-ad6c-4d68-a48e-25fc39c92491",
+                    "name": "Lühter elektrilampidega",
+                    "description": null,
+                    "photo": "8daa74ce-ad6c-4d68-a48e-25fc39c92491.png",
+                    "details": [
+                        "8daa74ce-ad6c-4d68-a48e-25fc39c92491:DETAIL0.png",
+                        "8daa74ce-ad6c-4d68-a48e-25fc39c92491:DETAIL1.png",
+                        "8daa74ce-ad6c-4d68-a48e-25fc39c92491:DETAIL1.png"
+                    ],
+                    "translation_en": "Chandelier with electric lamps",
+                    "translation_ru": "Люстра с электрическими лампами",
+                    "position": 1,
+                    "size": {
+                        "width": 3264,
+                        "height": 2448,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "9d74b646-2408-4dcb-84c6-050fc283c8cc",
+                    "name": "Väike lühter küünaldega",
+                    "description": null,
+                    "photo": "9d74b646-2408-4dcb-84c6-050fc283c8cc.png",
+                    "details": [
+                        "9d74b646-2408-4dcb-84c6-050fc283c8cc:DETAIL0.png",
+                        "9d74b646-2408-4dcb-84c6-050fc283c8cc:DETAIL1.png",
+                        "9d74b646-2408-4dcb-84c6-050fc283c8cc:DETAIL1.png"
+                    ],
+                    "translation_en": "Small chandelier with candles",
+                    "translation_ru": "Малые люстры со свечами",
+                    "position": 6,
+                    "size": {
+                        "width": 768,
+                        "height": 1024,
+                        "proportion": 1.3333333333333333
+                    },
+                    "published": true
+                },
+                {
+                    "key": "b2d63355-b90c-4b46-b718-5978ebe05b39",
+                    "name": "Küünlajalg seinale",
+                    "description": null,
+                    "photo": "b2d63355-b90c-4b46-b718-5978ebe05b39.png",
+                    "details": [
+                        "b2d63355-b90c-4b46-b718-5978ebe05b39:DETAIL0.png"
+                    ],
+                    "translation_en": "Candlestick on wall",
+                    "translation_ru": "Стена Подсвечник",
+                    "position": 6,
+                    "size": {
+                        "width": 960,
+                        "height": 1280,
+                        "proportion": 1.3333333333333333
+                    },
+                    "published": true
+                },
+                {
+                    "key": "e09b1cbb-157b-44d5-99b0-76fae7b6b838",
+                    "name": "Antiik 1",
+                    "description": null,
+                    "photo": "e09b1cbb-157b-44d5-99b0-76fae7b6b838.png",
+                    "details": [],
+                    "translation_en": "Antique 1",
+                    "translation_ru": "Античный подсвечник 1",
+                    "position": 5,
+                    "size": null,
+                    "published": false
+                },
+                {
+                    "key": "e9142f0f-d5e6-42ee-851b-95b8cb32d6cf",
+                    "name": "Küünlaalus lehed",
+                    "description": null,
+                    "photo": "e9142f0f-d5e6-42ee-851b-95b8cb32d6cf.png",
+                    "details": [
+                        "e9142f0f-d5e6-42ee-851b-95b8cb32d6cf:DETAIL0.png",
+                        "e9142f0f-d5e6-42ee-851b-95b8cb32d6cf:DETAIL1.png",
+                        "e9142f0f-d5e6-42ee-851b-95b8cb32d6cf:DETAIL1.png"
+                    ],
+                    "translation_en": "Candlestick leaves",
+                    "translation_ru": "Подсвечник лист",
+                    "position": 5,
+                    "size": {
+                        "width": 1024,
+                        "height": 768,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "ea6b57df-4ac9-4004-8ef4-66210930a05a",
+                    "name": "Küünlajalg roos",
+                    "description": null,
+                    "photo": "ea6b57df-4ac9-4004-8ef4-66210930a05a.png",
+                    "details": [],
+                    "translation_en": "Candlestick Rose",
+                    "translation_ru": "Подсвечник Роза",
+                    "position": 6,
+                    "size": {
+                        "width": 768,
+                        "height": 1024,
+                        "proportion": 1.3333333333333333
+                    },
+                    "published": true
+                }
+            ],
+            "name": "Lühtrid küünlajalad",
+            "name_en": "Chandeliers and Candlesticks",
+            "name_ru": "Люстры и Подсвечники"
+        },
+        "Sisustus": {
+            "products": [
+                {
+                    "key": "183721ae-36c3-4069-b4d0-81d74e811067",
+                    "name": "Jalanõude alus 2",
+                    "description": null,
+                    "photo": "183721ae-36c3-4069-b4d0-81d74e811067.png",
+                    "details": [],
+                    "translation_en": "Footwear base 2",
+                    "translation_ru": "Обувь база 2",
+                    "position": 1,
+                    "size": {
+                        "width": 1024,
+                        "height": 768,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "1c8048e1-3dd8-444c-bf05-a23b27a5fa07",
+                    "name": "Cowboy",
+                    "description": null,
+                    "photo": "1c8048e1-3dd8-444c-bf05-a23b27a5fa07.png",
+                    "details": [],
+                    "translation_en": "Cowboy",
+                    "translation_ru": "Ковбой",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "3ffb04a3-cb18-40f2-8216-d078b977c26c",
+                    "name": "Veinipudelihoidja -COWBOY",
+                    "description": null,
+                    "photo": "3ffb04a3-cb18-40f2-8216-d078b977c26c.png",
+                    "details": [],
+                    "translation_en": "Buttle holder COWBOY",
+                    "translation_ru": "Держатель для винной бутылки- ковбой",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "4fcb3061-0559-46e4-9056-05f99dc57d43",
+                    "name": "Lillepostament",
+                    "description": null,
+                    "photo": "4fcb3061-0559-46e4-9056-05f99dc57d43.png",
+                    "details": [
+                        "4fcb3061-0559-46e4-9056-05f99dc57d43:DETAIL0.png"
+                    ],
+                    "translation_en": "Flower base",
+                    "translation_ru": "Цветочная база",
+                    "position": 5,
+                    "size": {
+                        "width": 960,
+                        "height": 1280,
+                        "proportion": 1.3333333333333333
+                    },
+                    "published": true
+                },
+                {
+                    "key": "65fc048f-5c7f-46a5-9140-cd36f9c7124f",
+                    "name": "Kaardinapuu",
+                    "description": null,
+                    "photo": "65fc048f-5c7f-46a5-9140-cd36f9c7124f.png",
+                    "details": [],
+                    "translation_en": "Curtain rails",
+                    "translation_ru": "Карнизы",
+                    "position": 5,
+                    "size": {
+                        "width": 1024,
+                        "height": 768,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "6f4268e5-f461-4672-bb21-71805f14f717",
+                    "name": "Viinamarjaväät-pudelihoidja",
+                    "description": null,
+                    "photo": "6f4268e5-f461-4672-bb21-71805f14f717.png",
+                    "details": [
+                        "6f4268e5-f461-4672-bb21-71805f14f717:DETAIL0.png",
+                        "6f4268e5-f461-4672-bb21-71805f14f717:DETAIL1.png",
+                        "6f4268e5-f461-4672-bb21-71805f14f717:DETAIL1.png"
+                    ],
+                    "translation_en": "Bottle holder",
+                    "translation_ru": "Держатель для винной бутылки-Лоза",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "741d1ff9-abc5-4d0c-8cf7-e04e66939942",
+                    "name": "Telefonihoidja",
+                    "description": null,
+                    "photo": "741d1ff9-abc5-4d0c-8cf7-e04e66939942.png",
+                    "details": [],
+                    "translation_en": "Phone holder",
+                    "translation_ru": "Подставка для телефона",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "aa65cc4a-cd18-4cd9-954f-43963a9a94e4",
+                    "name": "Silt",
+                    "description": null,
+                    "photo": "aa65cc4a-cd18-4cd9-954f-43963a9a94e4.png",
+                    "details": [],
+                    "translation_en": "Signboard",
+                    "translation_ru": "Вывеска",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "ab6effdf-e5c2-4a8c-9593-1c571efca7fa",
+                    "name": "Veinipudelihoidja - 6",
+                    "description": null,
+                    "photo": "ab6effdf-e5c2-4a8c-9593-1c571efca7fa.png",
+                    "details": [],
+                    "translation_en": "Buttle holder -6",
+                    "translation_ru": "Держатель для винной бутылки",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "c42ec1b9-b58c-4389-9cb8-808a268fd73c",
+                    "name": "Kandur",
+                    "description": null,
+                    "photo": "c42ec1b9-b58c-4389-9cb8-808a268fd73c.png",
+                    "details": [
+                        "c42ec1b9-b58c-4389-9cb8-808a268fd73c:DETAIL0.png",
+                        "c42ec1b9-b58c-4389-9cb8-808a268fd73c:DETAIL1.png",
+                        "c42ec1b9-b58c-4389-9cb8-808a268fd73c:DETAIL1.png"
+                    ],
+                    "translation_en": "Carrier",
+                    "translation_ru": "Поддержка",
+                    "position": 5,
+                    "size": {
+                        "width": 1280,
+                        "height": 960,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "c8de8cd5-8f9d-4526-9091-7ebcffe8f07a",
+                    "name": "Lillealus",
+                    "description": null,
+                    "photo": "c8de8cd5-8f9d-4526-9091-7ebcffe8f07a.png",
+                    "details": [],
+                    "translation_en": "Flower base",
+                    "translation_ru": "Подставка для цветов",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "d8207a16-76a8-43de-ac3c-e88dafb71d41",
+                    "name": "Jalanõude alus",
+                    "description": null,
+                    "photo": "d8207a16-76a8-43de-ac3c-e88dafb71d41.png",
+                    "details": [
+                        "d8207a16-76a8-43de-ac3c-e88dafb71d41:DETAIL0.png",
+                        "d8207a16-76a8-43de-ac3c-e88dafb71d41:DETAIL1.png",
+                        "d8207a16-76a8-43de-ac3c-e88dafb71d41:DETAIL1.png"
+                    ],
+                    "translation_en": "Footwear base",
+                    "translation_ru": "Обувь база",
+                    "position": 5,
+                    "size": {
+                        "width": 3264,
+                        "height": 2448,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "df6a7224-4b38-4079-b5a6-15f0ec29a11a",
+                    "name": "Lille kandur",
+                    "description": null,
+                    "photo": "df6a7224-4b38-4079-b5a6-15f0ec29a11a.png",
+                    "details": [],
+                    "translation_en": "Holder for flowers ",
+                    "translation_ru": "Поддержка для цветов",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                }
+            ],
+            "name": "Sisustus",
+            "name_en": "Furniture",
+            "name_ru": "Оборудование"
+        },
+        "Väravad": {
+            "products": [
+                {
+                    "key": "21fab277-5009-4a07-acb9-e78ea7f58510",
+                    "name": "Värav 1",
+                    "description": null,
+                    "photo": "21fab277-5009-4a07-acb9-e78ea7f58510.png",
+                    "details": [],
+                    "translation_en": "Gate 1",
+                    "translation_ru": "Ворота 1",
+                    "position": 1,
+                    "size": {
+                        "width": 1024,
+                        "height": 768,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "2f9f6de8-8725-4142-9f6a-dc7acfb3140c",
+                    "name": "Värav 2",
+                    "description": null,
+                    "photo": "2f9f6de8-8725-4142-9f6a-dc7acfb3140c.png",
+                    "details": [],
+                    "translation_en": "Gate 2",
+                    "translation_ru": "Ворота 2",
+                    "position": 5,
+                    "size": {
+                        "width": 1024,
+                        "height": 768,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "b7ea39ab-f315-4244-8b01-dfaa78f958ec",
+                    "name": "Värav 3",
+                    "description": null,
+                    "photo": "b7ea39ab-f315-4244-8b01-dfaa78f958ec.png",
+                    "details": [],
+                    "translation_en": "Gate 3",
+                    "translation_ru": "Ворота 3",
+                    "position": 6,
+                    "size": {
+                        "width": 1024,
+                        "height": 768,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                }
+            ],
+            "name": "Väravad",
+            "name_en": "Gates",
+            "name_ru": "Ворота"
+        },
+        "Nagi": {
+            "products": [
+                {
+                    "key": "34e9784f-f4bb-4207-b1d3-cfaa5afdd68c",
+                    "name": "Nagi Koer",
+                    "description": null,
+                    "photo": "34e9784f-f4bb-4207-b1d3-cfaa5afdd68c.png",
+                    "details": [],
+                    "translation_en": "Hanger Dog",
+                    "translation_ru": "Вешалка  Мопс",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "44f61257-c140-4c46-9fb8-25fc11ad592d",
+                    "name": "Nagi Hobune",
+                    "description": null,
+                    "photo": "44f61257-c140-4c46-9fb8-25fc11ad592d.png",
+                    "details": [],
+                    "translation_en": "Hanger Horses",
+                    "translation_ru": "Вешалка  Лошади",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "4fb42ca1-0984-4451-a818-643c680ebd21",
+                    "name": "Nagi Kukk",
+                    "description": null,
+                    "photo": "4fb42ca1-0984-4451-a818-643c680ebd21.png",
+                    "details": [],
+                    "translation_en": "Hanger Cock",
+                    "translation_ru": "Вешалка Петух",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "6493af2d-acba-46e2-8895-ed10fda0d730",
+                    "name": "Nagi Kass",
+                    "description": null,
+                    "photo": "6493af2d-acba-46e2-8895-ed10fda0d730.png",
+                    "details": [],
+                    "translation_en": "Hanger Cat",
+                    "translation_ru": "Вешалка  Кот",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "7935e5f7-e6e9-4ae0-bf04-219f2ae47fb2",
+                    "name": "Nagi Kala",
+                    "description": null,
+                    "photo": "7935e5f7-e6e9-4ae0-bf04-219f2ae47fb2.png",
+                    "details": [],
+                    "translation_en": "Hanger Fish",
+                    "translation_ru": "Вешалка  Рыба",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "a6cfe2ed-f1e3-4018-ba82-8c4af0793f21",
+                    "name": "Draakon",
+                    "description": null,
+                    "photo": "a6cfe2ed-f1e3-4018-ba82-8c4af0793f21.png",
+                    "details": [],
+                    "translation_en": "Dragon",
+                    "translation_ru": "Вешалка  Дракон",
+                    "position": 6,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "c43e3eb9-f3ba-4291-b2cf-3817e50acf0f",
+                    "name": "Heeringas",
+                    "description": null,
+                    "photo": "c43e3eb9-f3ba-4291-b2cf-3817e50acf0f.png",
+                    "details": [],
+                    "translation_en": "Hering",
+                    "translation_ru": "Вешалка  Селедка",
+                    "position": 6,
+                    "size": null,
+                    "published": true
+                },
+                {
+                    "key": "dc1aaf59-2e52-4066-966e-a171909fb3ff",
+                    "name": "Köögiriistu",
+                    "description": null,
+                    "photo": "dc1aaf59-2e52-4066-966e-a171909fb3ff.png",
+                    "details": [],
+                    "translation_en": "Kitchen hanger",
+                    "translation_ru": "Универсальная вешалка",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                }
+            ],
+            "name": "Nagi",
+            "name_en": "Hangers",
+            "name_ru": "Вешалки"
+        },
+        "Raudmees": {
+            "products": [
+                {
+                    "key": "59e0c59a-5834-42a6-b8b5-d245819e1f1e",
+                    "name": "Raudmehe söögiriistad",
+                    "description": null,
+                    "photo": "59e0c59a-5834-42a6-b8b5-d245819e1f1e.png",
+                    "details": [],
+                    "translation_en": "Iron man cutlery",
+                    "translation_ru": "Столовые Приборы",
+                    "position": 5,
+                    "size": {
+                        "width": 1280,
+                        "height": 960,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "5a7d39c3-abea-4f91-b57c-6c7995423800",
+                    "name": "Rauast pudel",
+                    "description": null,
+                    "photo": "5a7d39c3-abea-4f91-b57c-6c7995423800.png",
+                    "details": [],
+                    "translation_en": "Iron bottle",
+                    "translation_ru": "Железная  бутылка",
+                    "position": 6,
+                    "size": {
+                        "width": 960,
+                        "height": 1280,
+                        "proportion": 1.3333333333333333
+                    },
+                    "published": true
+                },
+                {
+                    "key": "9fb054a8-86d4-40bf-84bc-92b6c0165794",
+                    "name": "Kiiver",
+                    "description": null,
+                    "photo": "9fb054a8-86d4-40bf-84bc-92b6c0165794.png",
+                    "details": [
+                        "9fb054a8-86d4-40bf-84bc-92b6c0165794:DETAIL0.png",
+                        "9fb054a8-86d4-40bf-84bc-92b6c0165794:DETAIL1.png",
+                        "9fb054a8-86d4-40bf-84bc-92b6c0165794:DETAIL1.png"
+                    ],
+                    "translation_en": "Helmet",
+                    "translation_ru": "Шлем",
+                    "position": 1,
+                    "size": {
+                        "width": 1024,
+                        "height": 768,
+                        "proportion": 0.75
+                    },
+                    "published": true
+                },
+                {
+                    "key": "dc667cbe-13d2-45ee-8a04-4efa83b5925f",
+                    "name": "Oda",
+                    "description": null,
+                    "photo": "dc667cbe-13d2-45ee-8a04-4efa83b5925f.png",
+                    "details": [],
+                    "translation_en": "Lance",
+                    "translation_ru": "Копье",
+                    "position": 5,
+                    "size": null,
+                    "published": true
+                }
+            ],
+            "name": "Raudmees",
+            "name_en": "Iron man",
+            "name_ru": "Железный Рыцарь"
+        }
+    }
+}
